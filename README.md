@@ -1,4 +1,3 @@
-# Library-Book-Management-System
 # 📚 Library Book Management System
 
 A simple Python-based Library Book Management System that allows users to manage book records using CSV file storage.
